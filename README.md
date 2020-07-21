@@ -1,1 +1,3 @@
 # _Spacegamebattle
+# Welcome to the space battle !
+# Welcome to spacebattle, here are the rules to the game, you must first attack any of the alienships by clicking any of the 1st round for them, after that you must attack the USS schwazernneger and then you have the option to attack the same alienship again for the 2nd round and destroy it or click for a first round with another one. You should only click for a second round once you have already hit the alienship for a first round. If you destroy all alienships you win otherwise you will lose either if you don't or if you retreat. You can click on any alienship name on the red box to see the features of each ship and to see which one may be a better option to attack next or first. Goodluck.
